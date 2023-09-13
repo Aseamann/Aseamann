@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aseamann: Austin Seamann
-- 👀 I’m interested in bioinformatics, structural biology, computational biology.
-- 🌱 I’m currently learning Python, Java, R, Swift....
-- 📫 How to reach me aseamann@unomaha.edu
+- 👀 I’m interested in computational structural biology focused on protein design.
+- 📫 How to reach me als515@scarletmail.rutgers.edu
 
 <!---
 Aseamann/Aseamann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
